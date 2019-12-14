@@ -1,0 +1,19 @@
+﻿[
+	{ "name" : "Unified hosts = (adware + malware)" , "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts"}, 
+	{ "name" : "Unified hosts + fakenews", "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts"},
+	{ "name" : "Unified hosts + gambling", "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling/hosts"},
+	{ "name" : "Unified hosts + porn", "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts"},
+	{ "name" : "Unified hosts + social", "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social/hosts"}, 
+	{ "name" : "Unified hosts + fakenews + gambling", "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts"}, 
+	{ "name" : "Unified hosts + fakenews + porn", "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-porn/hosts"},
+	{ "name" : "Unified hosts + fakenews + social", "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-social/hosts"},
+	{ "name" : "Unified hosts + gambling + porn", "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn/hosts"},
+	{ "name" : "Unified hosts + gambling + social", "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-social/hosts"},
+	{ "name" : "Unified hosts + porn + social", "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-social/hosts"},
+	{ "name" : "Unified hosts + fakenews + gambling + porn", "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts"},
+	{ "name" : "Unified hosts + fakenews + gambling + social", "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-social/hosts"},
+	{ "name" : "Unified hosts + fakenews + porn + social", "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-porn-social/hosts"}, 
+	{ "name" : "Unified hosts + gambling + porn + social", "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn-social/hosts"},
+	{ "name" : "Unified hosts + fakenews + gambling + porn + social", "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts"}
+
+]
